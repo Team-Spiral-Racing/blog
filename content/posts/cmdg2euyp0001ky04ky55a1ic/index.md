@@ -1,6 +1,6 @@
 ---
 title: "Picking up Thomas's new S2000"
-date: 2025-07-23
+date: 2024-10-25
 draft: false
 summary: "Speed on the Horizon My brother has always wanted an S2000 after getting mine. The high revving e..."
 showAuthor: true

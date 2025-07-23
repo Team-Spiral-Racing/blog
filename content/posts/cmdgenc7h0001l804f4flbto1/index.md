@@ -1,6 +1,6 @@
 ---
 title: "SoW Trackday 9/29/24"
-date: 2025-07-23
+date: 2024-10-01
 draft: false
 summary: "Planning It didn't take long for us to plan this. Ever since I had my S2000, I had always intende..."
 showAuthor: true
