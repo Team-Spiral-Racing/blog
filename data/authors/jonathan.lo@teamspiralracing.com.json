@@ -1,0 +1,10 @@
+{
+    "name": "Jonathan Lo",
+    "image" : "authors/jonathan.jpg",
+    "bio": "Founder of Team Spiral Racing",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/jonathanlo411" },
+        { "instagram": "https://instagram.com/s2k_jlo" },
+        { "github": "https://github.com/jonathanlo411" }
+    ]
+}
