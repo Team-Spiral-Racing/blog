@@ -1,0 +1,2 @@
+# Team Spiral Racing Documentation Docker
+This image uses a two stage Dockerfile which builds (npx) then serves (nginx) the Team Spiral Racing Blog files. An `nginx.conf` is used as part of this build and is provided in this directory in order to resolve routing with remove "*.html" URLs.
