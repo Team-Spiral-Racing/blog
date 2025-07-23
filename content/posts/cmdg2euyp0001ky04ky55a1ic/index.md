@@ -18,9 +18,15 @@ On October 15th, 2024 my brother sent me a listing for a 2006 Berlina Black S200
 
 ## Flying Over
 I had recently graduated from college and my parents had given me a $500 Southwest Airlines gift card. I was originally planning on getting a job in the Bay Area and they had intended for it to cover my fare. However, this would instead serve as a ticket for both me and my brother to fly out of Ontario (ONT) to Las Vegas (LAS) for a quick 1 hour layover. We would then fly from Las Vegas to Tulsa  (TUL) where we would meet the seller. He had taken the liberty of making the hour and half drive from Missouri to Tulsa in order to make this sale.
+<video controls>
+  <source src="https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753312818955-Snapchat-1886209032.mp4" type="video/mp4">
+</video>
 
 ## Looking at the S2000
 After landing, we waited for about 20 minutes before he arrived. He showed us around the car and we took it for a test drive around the airport. One of the things we noticed was that the clutch was on its way out and had a pretty high bite point. We also confirmed that the CEL light was on due to catalytic convertor with my OBD2 scanner. We were pretty happy with the car but were able to negotiate the price down to 17k. After signing the paperwork, we were on our way home.
+<video controls>
+  <source src="https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753312812998-Snapchat-406994409.mp4" type="video/mp4">
+</video>
 
 We also noticed it did have a small tear in the softop. This would eventually become massive throughout our trip becoming a massive headache with all of the wind noise. We did try to patch it with duck tape but only had limited success.
 
@@ -44,7 +50,9 @@ We steadily made our way east throughout the evening. Due to some road closures,
 
 ### Grand Canyon
 Things were good until about midnight when we just crossed into New Mexico. A massive shower hit us and we had to slow to 40mph where even semi trucks were passing us. We focused on keeping the car on the road for about 30 minutes where we eventually made it out of the storm. We continued driving until about 4 AM where we pulled over to rest for a bit.
-
+<video controls>
+  <source src="https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753312760030-20241019_232531.mp4" type="video/mp4">
+</video>
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753208981765-Screenshot%202025-07-22%20112926.png)
 
 At about 7 in the morning, we made it to Flagstaff, Arizona. Since it was on the way, we checked out the Grand Canyon. To get there, we headed up via the scenic Route 180. At the time it was snowing and we experienced an enjoyable drive through the winter wonderland. This was quite surprising considering we were in Arizona of all places but was quite welcome. Per usual, the Grand Canyon was a great sight to see.
