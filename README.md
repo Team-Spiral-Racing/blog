@@ -1,4 +1,4 @@
-<img src="/public/logos/full.png" alt="team spiral racing logo" width="400"/>
+<img src="/assets/logos/full.png" alt="team spiral racing logo" width="400"/>
 <a href="https://github.com/Team-Spiral-Racing/blog/releases"><img src="https://img.shields.io/github/v/release/Team-Spiral-Racing/blog?color=f56827"></a>
 <a href="https://github.com/Team-Spiral-Racing/blog/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Team-Spiral-Racing/blog"></a>
 
