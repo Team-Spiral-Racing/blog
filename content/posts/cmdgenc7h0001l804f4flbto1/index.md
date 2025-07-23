@@ -17,6 +17,9 @@ On Saturday, we made final preparations, grabbed some dinner with friends and re
 
 ## Morning
 At 5:00 AM, we woke up and got ready. We headed out around 5:30 in the S2000 and the Accord. On the way, we grabbed some ice for the drinks that we were bringing up. We then traveled North until we reached Palmdale where we grabbed some McDonald's for breakfast. By 8:00 AM we had reached Willow Springs. It was an uneventful drive up but was great to see the sun rise over the plains.
+<video controls>
+  <source src="https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753311129634-Snapchat-1114087048.mp4" type="video/mp4">
+</video>
 
 ## Early Track
 We did our driver's meeting and had an enjoyable morning at the track. Met a lot of good friends during this time. Here are some pictures from the morning:
@@ -36,6 +39,7 @@ The track started getting quite hot during the afternoon and times weren't impro
 
 ## Dinner
 Although we were tired, we decided to grab dinner on the way back.  We went to [One Bite Dumpling一口香饺子坊](https://maps.app.goo.gl/NiPqnNidZcfm2C5u7) which was great after a long day. On the way back to Riverside, there was a pretty nasty crash so stay safe out there.
+![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753312393203-image22613[1].jpg)
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753301697915-Screenshot_20250723_131319_Instagram.jpg)
 
 ## Conclusion
