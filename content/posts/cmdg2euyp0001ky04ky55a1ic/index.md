@@ -25,7 +25,7 @@ I had recently graduated from college and my parents had given me a $500 Southwe
 ## Looking at the S2000
 After landing, we waited for about 20 minutes before he arrived. He showed us around the car and we took it for a test drive around the airport. One of the things we noticed was that the clutch was on its way out and had a pretty high bite point. We also confirmed that the CEL light was on due to catalytic convertor with my OBD2 scanner. We were pretty happy with the car but were able to negotiate the price down to 17k. After signing the paperwork, we were on our way home.
 <video controls>
-  <source src="https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753312812998-Snapchat-406994409.mp4" type="video/mp4">
+  <source src="https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753208290622-Snapchat-406994409.mp4" type="video/mp4">
 </video>
 
 We also noticed it did have a small tear in the softop. This would eventually become massive throughout our trip becoming a massive headache with all of the wind noise. We did try to patch it with duck tape but only had limited success.
