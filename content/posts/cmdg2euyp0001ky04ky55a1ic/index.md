@@ -11,7 +11,7 @@ authors:
 ## Speed on the Horizon
 My brother has always wanted an S2000 after getting mine. The high revving engine and light weight car was an unbeatable combination. At this point, my brother had already done some laps in mine at a track day so he was keen on picking up his own soon. And so, he started looking.
 
-On October 15th, 2024 my brother sent me a listing for a 2006 Berlina Black S2000. It looked like a great deal but the only caveat was that it was in Michigan. After setting up a call with the owner, we checked for and found no rust. In addition, we did our due diligence and figured that this was a pretty good deal. Pretty soon, we were preparing for a trip to Michigan.
+On October 15th, 2024 my brother sent me a listing for a 2006 Berlina Black S2000. It looked like a great deal but the only caveat was that it was in Missouri. After setting up a call with the owner, we checked for and found no rust. In addition, we did our due diligence and figured that this was a pretty good deal. Pretty soon, we were preparing for a trip to Michigan.
 
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753205982194-image000001.jpg)
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753205968309-image000002.jpg)
