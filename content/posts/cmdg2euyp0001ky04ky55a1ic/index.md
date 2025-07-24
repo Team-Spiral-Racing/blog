@@ -33,7 +33,7 @@ We also noticed it did have a small tear in the softop. This would eventually be
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753211007334-20241020_110823.jpg)
 
 ## Heading Home
-There was no easy way back, we had a roughly 20 hour drive under ideal conditions. Since we had two drivers, we didn't plan on getting a place to stay at overnight and just raw dog it back to Riverside. We were getting hungry so we decided to grab some local fast food in the form of Charlie's Chicken.
+There was no easy way back, we had a roughly 20 hour drive under ideal conditions. Since we had two drivers, we didn't plan on getting a place to stay at overnight and just raw dog it back to Riverside. We were getting hungry so we decided to grab some local fast food in the form of [Charlie's Chicken](https://maps.app.goo.gl/fRdYgiUCQBiXJ6E6A).
 
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753207263445-20241019_162743.jpg)
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753207268013-20241019_162748.jpg)
@@ -74,6 +74,8 @@ After some time, we eventually made it back into California. We still had anothe
 At 6PM, we had finally arrived at my brother's place in Riverside. We had left for the airport on Saturday October 19th at 4:30 AM and had finally arrived back in Riverside at 6 PM. We had each driven 11 hours for a total of a 22 hour drive. After much adventure and exhaustion, the BBS2K had finally arrived home.
 
 ![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753213597857-Snapchat-2066664980%20(1).jpg)
+![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753330436162-Screenshot%202025-07-23%20211313.png)
+![](https://pub-74cb85bf31ce44d08e83ee38e052fc7a.r2.dev/uploads/6879cfffdb975a80a5284c3f/1753330439911-Screenshot%202025-07-23%20211333.png)
 
 ## Conclusion
 
